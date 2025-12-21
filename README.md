@@ -1,5 +1,5 @@
 # STACKed.
-## Team DIVORCE!!
+## Team DIVORCE (#22)
 > A cup stacking arm born from Prototype
 > Team 22
 
