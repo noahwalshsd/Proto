@@ -1,7 +1,7 @@
 # STACKed.
 ## team DIVORCE!!
-> a cup stacking arm born from Prototype
-> team 22
+> A cup stacking arm born from Prototype
+> Team 22
 
 [GITHUB USERS]: Noahwalshsd, solacite, esmweee
 [DESC]: The robot arm constructs and deconstructs a pyramid-style stack of cups.
