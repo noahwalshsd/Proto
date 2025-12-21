@@ -18,3 +18,4 @@
 
 [VIDEO]:
 https://github.com/user-attachments/assets/4b4c2092-f2be-4b8e-9c4d-8059aa93f3f4
+<video src="https://github.com/user-attachments/assets/4b4c2092-f2be-4b8e-9c4d-8059aa93f3f4" controls width="480"></video>
