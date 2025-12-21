@@ -1,0 +1,101 @@
+INFO 2025-12-21 19:28:19 db_utils.py:102 [1m[34mLogs will be synced with wandb.[0m
+INFO 2025-12-21 19:28:19 db_utils.py:103 Track this run --> [1m[33mhttps://wandb.ai/stack-hack-club/lerobot/runs/q2rosoq2[0m
+INFO 2025-12-21 19:28:19 ot_train.py:183 Creating dataset
+meta/episodes/chunk-000/file-002.parquet: 100%|█| 84.7k/84.7k [00:00<00:00, 201k
+meta/episodes/chunk-000/file-007.parquet: 100%|█| 84.5k/84.5k [00:00<00:00, 185k
+meta/episodes/chunk-000/file-001.parquet: 100%|█| 84.2k/84.2k [00:00<00:00, 182k
+meta/episodes/chunk-000/file-004.parquet: 100%|█| 84.7k/84.7k [00:00<00:00, 178k
+meta/episodes/chunk-000/file-003.parquet: 100%|█| 84.3k/84.3k [00:00<00:00, 152k
+meta/episodes/chunk-000/file-006.parquet: 100%|█| 84.7k/84.7k [00:00<00:00, 162k
+meta/episodes/chunk-000/file-005.parquet: 100%|█| 84.2k/84.2k [00:00<00:00, 158k
+info.json: 4.50kB [00:00, 23.5MB/s]rquet: 100%|█| 84.7k/84.7k [00:00<00:00, 162k
+meta/episodes/chunk-000/file-000.parquet: 100%|█| 84.3k/84.3k [00:00<00:00, 150k
+stats.json: 19.1kB [00:00, 19.7MB/s]             | 1/12 [00:00<00:10,  1.08it/s]
+meta/tasks.parquet: 100%|██████████████████| 2.20k/2.20k [00:00<00:00, 14.4kB/s]
+meta/episodes/chunk-000/file-008.parquet: 100%|█| 76.5k/76.5k [00:00<00:00, 212k
+Fetching 12 files: 100%|████████████████████████| 12/12 [00:01<00:00,  9.88it/s]
+README.md: 4.98kB [00:00, 14.7MB/s]                      | 0/59 [00:00<?, ?it/s]
+.gitattributes: 2.46kB [00:00, 22.3MB/s]             | 0.00/189k [00:00<?, ?B/s]
+data/chunk-000/file-000.parquet: 100%|███████| 189k/189k [00:00<00:00, 1.83MB/s]
+data/chunk-000/file-001.parquet: 100%|████████| 182k/182k [00:00<00:00, 901kB/s]
+data/chunk-000/file-005.parquet: 100%|████████| 186k/186k [00:00<00:00, 979kB/s]
+data/chunk-000/file-003.parquet: 100%|████████| 188k/188k [00:00<00:00, 961kB/s]
+data/chunk-000/file-002.parquet: 100%|████████| 191k/191k [00:00<00:00, 829kB/s]
+data/chunk-000/file-008.parquet: 100%|██████| 92.9k/92.9k [00:00<00:00, 515kB/s]
+data/chunk-000/file-006.parquet: 100%|████████| 187k/187k [00:00<00:00, 745kB/s]
+data/chunk-000/file-004.parquet: 100%|████████| 188k/188k [00:00<00:00, 448kB/s]
+data/chunk-000/file-007.parquet: 100%|████████| 197k/197k [00:00<00:00, 537kB/s]
+videos/observation.images.side/chunk-000(…): 100%|█| 9.24M/9.24M [00:00<00:00, 3
+videos/observation.images.side/chunk-000(…): 100%|█| 9.12M/9.12M [00:00<00:00, 3
+videos/observation.images.side/chunk-000(…): 100%|█| 9.18M/9.18M [00:00<00:00, 2
+videos/observation.images.side/chunk-000(…): 100%|█| 8.61M/8.61M [00:00<00:00, 1
+videos/observation.images.side/chunk-000(…): 100%|█| 9.63M/9.63M [00:00<00:00, 1
+videos/observation.images.side/chunk-000(…): 100%|█| 23.2M/23.2M [00:00<00:00, 5
+videos/observation.images.side/chunk-000(…): 100%|█| 39.5M/39.5M [00:01<00:00, 3
+videos/observation.images.side/chunk-000(…): 100%|█| 45.8M/45.8M [00:00<00:00, 4
+videos/observation.images.side2/chunk-00(…): 100%|█| 50.6M/50.6M [00:00<00:00, 5
+videos/observation.images.side/chunk-000(…): 100%|█| 40.6M/40.6M [00:01<00:00, 3
+videos/observation.images.side2/chunk-00(…): 100%|█| 9.12M/9.12M [00:00<00:00, 2
+videos/observation.images.side2/chunk-00(…): 100%|█| 50.2M/50.2M [00:01<00:00, 4
+videos/observation.images.side2/chunk-00(…): 100%|█| 9.41M/9.41M [00:00<00:00, 2
+videos/observation.images.side2/chunk-00(…): 100%|█| 50.4M/50.4M [00:00<00:00, 5
+videos/observation.images.side2/chunk-00(…): 100%|█| 51.1M/51.1M [00:01<00:00, 4
+videos/observation.images.side2/chunk-00(…): 100%|█| 50.5M/50.5M [00:01<00:00, 3
+videos/observation.images.side2/chunk-00(…): 100%|█| 19.7M/19.7M [00:00<00:00, 4
+videos/observation.images.side2/chunk-00(…): 100%|█| 39.0M/39.0M [00:00<00:00, 5
+videos/observation.images.top/chunk-000/(…): 100%|█| 41.7M/41.7M [00:00<00:00, 5
+videos/observation.images.top/chunk-000/(…): 100%|█| 8.48M/8.48M [00:00<00:00, 3
+videos/observation.images.top/chunk-000/(…): 100%|█| 41.0M/41.0M [00:00<00:00, 4
+videos/observation.images.top/chunk-000/(…): 100%|█| 41.9M/41.9M [00:00<00:00, 5
+videos/observation.images.top/chunk-000/(…): 100%|█| 42.0M/42.0M [00:00<00:00, 4
+videos/observation.images.top/chunk-000/(…): 100%|█| 4.47M/4.47M [00:00<00:00, 1
+videos/observation.images.top/chunk-000/(…): 100%|█| 50.2M/50.2M [00:00<00:00, 6
+videos/observation.images.top/chunk-000/(…): 100%|█| 42.2M/42.2M [00:01<00:00, 3
+videos/observation.images.top/chunk-000/(…): 100%|█| 49.5M/49.5M [00:01<00:00, 3
+videos/observation.images.wrist/chunk-00(…): 100%|█| 40.3M/40.3M [00:00<00:00, 5
+videos/observation.images.wrist/chunk-00(…): 100%|█| 41.6M/41.6M [00:00<00:00, 6
+videos/observation.images.wrist/chunk-00(…): 100%|█| 42.1M/42.1M [00:00<00:00, 7
+videos/observation.images.wrist/chunk-00(…): 100%|█| 40.7M/40.7M [00:00<00:00, 5
+videos/observation.images.wrist/chunk-00(…): 100%|█| 39.8M/39.8M [00:00<00:00, 4
+videos/observation.images.wrist/chunk-00(…): 100%|█| 40.3M/40.3M [00:01<00:00, 3
+videos/observation.images.wrist/chunk-00(…): 100%|█| 41.6M/41.6M [00:00<00:00, 5
+videos/observation.images.wrist/chunk-00(…): 100%|█| 49.0M/49.0M [00:00<00:00, 6
+videos/observation.images.wrist/chunk-00(…): 100%|█| 24.8M/24.8M [00:00<00:00, 3
+Fetching 59 files: 100%|████████████████████████| 59/59 [00:04<00:00, 12.17it/s]
+INFO 2025-12-21 19:28:25 ot_train.py:202 Creating policy3M/40.3M [00:01<00:00, 3
+INFO 2025-12-21 19:28:26 ot_train.py:247 Creating optimizer and scheduler0:00, 4
+INFO 2025-12-21 19:28:26 ot_train.py:259 [1m[33mOutput dir:[0m outputs/train/act_so101_disassemble_big
+INFO 2025-12-21 19:28:26 ot_train.py:262 cfg.steps=3000 (3K)
+INFO 2025-12-21 19:28:26 ot_train.py:263 dataset.num_frames=28479 (28K)
+INFO 2025-12-21 19:28:26 ot_train.py:264 dataset.num_episodes=85
+INFO 2025-12-21 19:28:26 ot_train.py:267 Effective batch size: 64 x 1 = 64
+INFO 2025-12-21 19:28:26 ot_train.py:268 num_learnable_params=51597190 (52M)
+INFO 2025-12-21 19:28:26 ot_train.py:269 num_total_params=51597190 (52M)
+INFO 2025-12-21 19:28:26 ot_train.py:324 Start offline training on a fixed dataset
+INFO 2025-12-21 19:31:10 ot_train.py:351 step:200 smpl:13K ep:38 epch:0.45 loss:5.242 grdn:74.421 lr:1.0e-05 updt_s:0.781 data_s:0.039
+INFO 2025-12-21 19:32:59 ot_train.py:351 step:400 smpl:26K ep:76 epch:0.90 loss:2.129 grdn:31.902 lr:1.0e-05 updt_s:0.528 data_s:0.018
+INFO 2025-12-21 19:42:36 ot_train.py:351 step:600 smpl:38K ep:115 epch:1.35 loss:1.687 grdn:29.529 lr:1.0e-05 updt_s:2.833 data_s:0.047
+INFO 2025-12-21 19:44:25 ot_train.py:351 step:800 smpl:51K ep:153 epch:1.80 loss:1.367 grdn:28.665 lr:1.0e-05 updt_s:0.528 data_s:0.018
+INFO 2025-12-21 19:46:21 ot_train.py:351 step:1K smpl:64K ep:191 epch:2.25 loss:1.117 grdn:26.207 lr:1.0e-05 updt_s:0.530 data_s:0.053
+INFO 2025-12-21 19:48:11 ot_train.py:351 step:1K smpl:77K ep:229 epch:2.70 loss:0.919 grdn:24.453 lr:1.0e-05 updt_s:0.530 data_s:0.018
+INFO 2025-12-21 19:50:08 ot_train.py:351 step:1K smpl:90K ep:267 epch:3.15 loss:0.764 grdn:23.613 lr:1.0e-05 updt_s:0.529 data_s:0.052
+INFO 2025-12-21 19:51:57 ot_train.py:351 step:2K smpl:102K ep:306 epch:3.60 loss:0.643 grdn:20.602 lr:1.0e-05 updt_s:0.529 data_s:0.018
+INFO 2025-12-21 19:53:57 ot_train.py:351 step:2K smpl:115K ep:344 epch:4.05 loss:0.550 grdn:19.387 lr:1.0e-05 updt_s:0.528 data_s:0.068
+INFO 2025-12-21 19:55:46 ot_train.py:351 step:2K smpl:128K ep:382 epch:4.49 loss:0.478 grdn:18.874 lr:1.0e-05 updt_s:0.529 data_s:0.018
+INFO 2025-12-21 19:57:36 ot_train.py:351 step:2K smpl:141K ep:420 epch:4.94 loss:0.428 grdn:17.099 lr:1.0e-05 updt_s:0.529 data_s:0.018
+INFO 2025-12-21 19:59:33 ot_train.py:351 step:2K smpl:154K ep:458 epch:5.39 loss:0.385 grdn:17.073 lr:1.0e-05 updt_s:0.528 data_s:0.058
+INFO 2025-12-21 20:01:23 ot_train.py:351 step:3K smpl:166K ep:497 epch:5.84 loss:0.359 grdn:17.512 lr:1.0e-05 updt_s:0.530 data_s:0.018
+INFO 2025-12-21 20:03:22 ot_train.py:351 step:3K smpl:179K ep:535 epch:6.29 loss:0.332 grdn:14.959 lr:1.0e-05 updt_s:0.529 data_s:0.065
+INFO 2025-12-21 20:05:11 ot_train.py:351 step:3K smpl:192K ep:573 epch:6.74 loss:0.314 grdn:15.432 lr:1.0e-05 updt_s:0.528 data_s:0.018
+INFO 2025-12-21 20:05:11 ot_train.py:361 Checkpoint policy after step 3000
+INFO 2025-12-21 20:05:12 ot_train.py:430 End of training
+Processing Files (1 / 1)      : 100%|██████████████|  207MB /  207MB, 93.9MB/s  
+New Data Upload               : 100%|██████████████|  206MB /  206MB, 93.6MB/s  
+  ...ble_big/model.safetensors: 100%|██████████████|  207MB /  207MB            
+INFO 2025-12-21 20:05:17 etrained.py:237 Model pushed to https://huggingface.co/solaxe/act_so101_diassemble_big
+Processing Files (1 / 1)      : 100%|██████████████| 9.54kB / 9.54kB,  0.00B/s  
+New Data Upload               : 100%|██████████████| 9.54kB / 9.54kB,  0.00B/s  
+  ...zer_processor.safetensors: 100%|██████████████| 9.54kB / 9.54kB
+Processing Files (1 / 1)      : 100%|██████████████| 9.54kB / 9.54kB,  0.00B/s  
+New Data Upload               : |                  |  0.00B /  0.00B,  0.00B/s  
+  ...zer_processor.safetensors: 100%|██████████████| 9.54kB / 9.54kB
